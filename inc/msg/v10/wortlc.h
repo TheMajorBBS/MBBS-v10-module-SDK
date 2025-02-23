@@ -1,0 +1,37 @@
+//  Message-number definitions derived from "wortlc.msg"  
+
+#define DOBNOT      1
+#define DOULON      2
+#define DOULOF      3
+#define DOBLOGN     4
+#define WORALST     5
+#define ACTRATE     6
+#define WORALST2    7
+#define ACTRATE2    8
+#define USEWLCH     9
+#define WLINVB3    11
+#define WLBDHE4    12
+#define WLBDLI4    13
+#define WLBDFT5    14
+#define NODCON4    15
+#define NODDIS4    16
+#define WLUSHE3    17
+#define WLUSLI3    18
+#define WLUSFT2    19
+#define WLUSNOU2   20
+#define WLUSLON2   21
+#define WLUSLOF2   22
+#define WLNINF2    23
+#define WLMODHE3   24
+#define WLMODLI2   25
+#define WLREQSN3   26
+#define WLTHLP     27
+#define BLNKSET    28
+#define BLONSET    29
+#define BLOFSET    30
+#define BLOGSET    31
+#define WLNOTEL2   32
+#define WLNAMB     33
+#define FUPMT      34
+#define NEEDBRD    35
+#define NOTINTL    36

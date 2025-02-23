@@ -1,0 +1,35 @@
+//  Message-number definitions derived from "wgspag.msg"  
+
+#define PAGEKEY     1
+#define NOIGNKEY    2
+#define DFTPOP      4
+#define DEFPGINT    5
+#define SOPBEL      6
+#define PAGFMT2     8
+#define UNOTFND     9
+#define PAGNON     10
+#define PNEEDCO    11
+#define PAMBIG     12
+#define URINV      13
+#define NOPAGKEY   14
+#define PAGEOK     15
+#define PAGOFF     16
+#define URIGN      17
+#define NOPAGYET   18
+#define PAGNOTFY   19
+#define PAGMSG     20
+#define PAGNPS     21
+#define PAGTON     22
+#define PAGTOF     23
+#define PAGTOK     24
+#define CURPSET    25
+#define IGNHDR     26
+#define IGNUSR     27
+#define PGINTSET   28
+#define CANTIGN    29
+#define PAGIGN     30
+#define ATMAXIGN   31
+#define PAGALW     32
+#define PFNWRD     33
+#define RAUNCH     34
+#define NEEDMSG    35

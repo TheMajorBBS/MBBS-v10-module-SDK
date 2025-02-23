@@ -1,0 +1,28 @@
+; V10MOD.MDF
+
+Module Name: MBBS v10 Example Module
+
+Developer: Galacticomm
+
+Requires:
+Replaces:
+
+Install:
+
+Online user manual: 
+
+DLLs: V10MOD
+MSGs: V10MOD
+
+Btrieve page size: 1024
+Btrieve files:     1
+
+Cleanup:
+
+Event-1:
+Event-2:
+Event-3:
+Event-4:
+
+Add-On Utility:
+

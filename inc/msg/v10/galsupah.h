@@ -1,0 +1,30 @@
+//  Message-number definitions derived from "galsupah.msg"  
+
+#define NAMEHTML    1
+#define COMHTML     2
+#define ADR1HTML    3
+#define ADR2HTML    4
+#define CTRYHTML    5
+#define PHOHTML     6
+#define COMPHTML    7
+#define SEXHTML     8
+#define BDAYHTML    9
+#define USERHTML   10
+#define USERCHK    11
+#define ERR01      12
+#define ERR02      13
+#define ERR03      14
+#define ERR04      15
+#define ERR05      16
+#define ERR06      17
+#define ERR07      18
+#define ERR08      19
+#define ERR09      20
+#define ERR10      21
+#define ERR11      22
+#define ERR12      23
+#define ERR13      24
+#define ERR14      25
+#define ERR15      26
+#define ERROOPS    27
+#define TIMSLC     29

@@ -1,0 +1,32 @@
+//  Message-number definitions derived from "wgsignup.msg"  
+
+#define CSNAAUID    1
+#define NAAUIN      2
+#define CSPL1UID    3
+#define PL1UIN      4
+#define CSPL2UID    5
+#define PL2UIN      6
+#define CSPL3UID    7
+#define PL3UIN      8
+#define CSSMLID2    9
+#define SMLUIN     10
+#define CSBIGUID   11
+#define BIGUIN     12
+#define CSUIDINU   13
+#define UININU     14
+#define PTOOSML    15
+#define BADPSW     16
+#define NTOOSML    17
+#define NPROFAN    18
+#define CPROFAN    19
+#define A1TOOSML   20
+#define A1PROFAN   21
+#define A2TOOSML   22
+#define A2PROFAN   23
+#define A3PROFAN   24
+#define VTOOSML    25
+#define VPROFAN    26
+#define INVSYS     27
+#define INVSEX     28
+#define INVBDY     29
+#define IMMEDB     30

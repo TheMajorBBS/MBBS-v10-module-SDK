@@ -1,0 +1,45 @@
+LEVEL4 {Galacticomm: MBBS v10 Example Module}
+
+  If you want to display a message at user logon
+  set this option to YES.
+  You may then set the LOGIN text.
+
+DISPLOM {Display message at logon? YES} B
+
+LEVEL6 {Galacticomm: MBBS v10 Example Module}
+
+LOGIN {[1;37m
+MBBS v10 Example Module welcomes you!
+} T Login Message
+
+DISPMEN {[1;37m
+
+[33m D [37m... Display users in DAT file
+[33m X [37m... Exit
+
+Choose one of the above options: } T V10MOD Menu
+
+SHORTM {[1;37m 
+Choose ([33mD[37m, [33m X[37m, or [5m?[0;1;37m for menu): } T Short menu
+
+LEAVE {
+Thanks, [33m%s[37m, for writing a new module for MBBS v10!
+} T Exiting module
+
+INVSEL {
+That is not a valid option.
+} T Incorrect selection from Menu
+
+USRLSTS {
+[33mUser-ID[35m                         
+------------------------------
+} T User list
+
+USRLSTU {[33m%-32s
+} T User list detail
+
+USRLSTE {[37m ** End of List **
+} T User list end
+
+NOUSERS {[37m ERROR: No users found
+} T User list not found

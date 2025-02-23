@@ -1,0 +1,36 @@
+//  Message-number definitions derived from "galnntp.msg"  
+
+#define NNTKEY      1
+#define NNTCHG      2
+#define NNTATKY     3
+#define NNTATCH     4
+#define NNTPKCH     5
+#define NNTPFX      7
+#define LOCPFX      8
+#define NNTNAM      9
+#define LOCNAM     10
+#define NNTDSC     11
+#define LOCDSC     12
+#define NNTXMP     13
+#define LOCXMP     14
+#define NNTHELP    15
+#define LOCHLP     16
+#define NNTOBD     17
+#define NNTSNDI    18
+#define NNTUES     19
+#define NNTTMO     20
+#define NNTAUD     21
+#define NNTAUDE    22
+#define NNTNSVR    23
+#define NNTORG     24
+#define LCMAINT    25
+#define MMAXTIM    26
+#define MMINTIM    27
+#define MZERTIM    28
+#define MRSPTIM    29
+#define MLOADPCT   30
+#define MSLEEP     31
+#define BADATT     33
+#define NNTTAG     34
+#define NNTLOG     36
+#define NNTLNAM    37

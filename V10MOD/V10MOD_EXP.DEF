@@ -1,0 +1,6 @@
+; Filename: V10MOD_EXP.DEF
+LIBRARY V10MOD.DLL
+; *** Visual Studio 2019 EXPORT ALIASES ONLY ***
+; Module Description Here - Copyright (c) Skynet, Inc.
+EXPORTS
+	_init__v10mod=init__v10mod	@1
