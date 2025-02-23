@@ -37,3 +37,5 @@ Notes:
 - The Developers guide can be found in the Doc folder.  This is an excellent guide on the components of MBBS and includes important details such as the architecture, routines, functions, variables and databases that make up the MBBS system and modules. Read it!
 - Only the init__modname routine has to be EXPORT, but EXPORT on all the functions will help you parse GALEXCEP.OUT reports on crashes.
 - init__modname has to match the module's filename - if the module changed from v10mod to mynewmod, the init would be VOID EXPORT init__mynewmod(VOID)
+
+Finally - thanks to @elwynor and @pheller for their assistance in putting this project together!
