@@ -11,8 +11,8 @@
  *                                                                           *
  *   This example C file is free for you to use, however no rights to the    *
  *   compiled library files are assigned beyond the right to use them to     *
- *   build your modules. Any other use including, but not limited to,        *
- *   decompilation, reverse-engineering, etc. is prohibited.                 *
+ *   build your modules. See the included LICENSE file for full licensing    *
+ *   details                                                                 *
  *                                                                           *
  *****************************************************************************/
 
