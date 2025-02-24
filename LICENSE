@@ -1,0 +1,34 @@
+License Agreement
+
+By using this Software Development Kit (SDK) (the "Software"), you agree to
+the following terms and conditions:
+
+- Usage Rights
+You are granted a non-exclusive, worldwide, royalty-free license to use and 
+modify the example project (including any associated files located within
+the V10MOD directory and sub-directories) within the Software, including any
+derived works, in any form.
+
+You hold all rights, title and interest in and to your derivative works of 
+the sample source code included in the Software, including their respective 
+intellectual property rights subject to the Software authors rights.
+
+You may not remove copyright or other proprietary notices from any portion 
+of the Software or copies of the Software.
+
+- Distribution Rights
+You may freely distribute any derived works, either in source code or compiled
+form.
+
+- Compiled Library Files
+The compiled library files (.LIB) provided with the Software are copyrighted. 
+You may not decompile, alter, reverse engineer, or distribute these compiled 
+library files in any form.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL 
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
